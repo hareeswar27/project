@@ -1,0 +1,33 @@
+#head{
+    color: skyblue;
+}
+.parent{
+    display: flex;
+    justify-content: space-between;
+}
+.box{
+    width: 500px;
+    height: 30px;
+    position: relative;
+    left: 36%;
+}
+.st{
+    text-decoration:line-through ;
+}
+.child{
+    width: 250px;
+    height: 150px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 5px solid #EDEDED;
+    border-radius: 10px;
+    opacity: 1;
+    padding: 20px;
+    margin: 5px;
+    position: relative;
+    top: 30px;
+    right: 160px;
+}
+.material-symbols-outlined{
+    color:white ;
+    background-color: black;
+}

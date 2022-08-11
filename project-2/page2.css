@@ -1,0 +1,33 @@
+.parent{
+    display: flex;
+    justify-content: space-between;
+
+}
+.box
+{
+    width: 250px;
+    height: 150px;
+    position: absolute;
+    top: 35%;
+    left: 40%;
+    right: 50%;
+    bottom: 50%;
+    background-color:#84adaba8;
+    padding: 10px;
+}
+.but
+{
+    color: rgb(250, 252, 251);
+    background-color: #00A5EC;
+    align:right;
+    align-content: center;
+}
+.in{
+    width: 90%;
+}
+body
+{
+    background: url(./blur.png) ;
+    background-repeat: no-repeat;
+    background-size: 100% 700px ;
+}
